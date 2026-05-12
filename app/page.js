@@ -1,7 +1,7 @@
 'use client';
 import React, { useState } from 'react';
 
-const WEBHOOK_URL = 'https://hook.eu1.make.com/zpq3mu8ullvwak1e2hyw5927l83pb7oq';
+const WEBHOOK_URL = '/api/order';
 
 const MENU = [
   {
